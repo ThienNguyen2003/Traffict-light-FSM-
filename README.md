@@ -13,6 +13,12 @@ It is based on a **Finite State Machine (FSM)** model that controls the lights f
 - Verilog HDL
 - Simulation: ModelSim 
 
+## Demo
+- FSM diagram
+![FSM State Diagram](FSM_traffic_light.png)  
+- Waveform
+![Waveform](waveform.png)
+
 ##  Project Structure
 
 traffic_light.v # Main Verilog code
