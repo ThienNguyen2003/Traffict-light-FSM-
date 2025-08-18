@@ -11,7 +11,7 @@ It is based on a **Finite State Machine (FSM)** model that controls the lights f
 
 ##  Tech Stack
 - Verilog HDL
-- Simulation: ModelSim / Quartus Prime
+- Simulation: ModelSim 
 
 ##  Project Structure
 traffic_light.v # Main Verilog code
